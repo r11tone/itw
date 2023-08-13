@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">itw</string>
+    <string name="title_activity_main">itw</string>
+    <string name="package_name">live.app.inthewind</string>
+    <string name="custom_url_scheme">live.app.inthewind</string>
+</resources>
